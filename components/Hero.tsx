@@ -79,7 +79,7 @@ export function Hero() {
               <span className="absolute inset-0 animate-ping rounded-full bg-accent opacity-75" />
               <span className="relative size-2 rounded-full bg-accent" />
             </span>
-            Himalayan Treks & Experiences
+            Travel, Treks & Experiences
           </span>
 
           {/* Headline */}

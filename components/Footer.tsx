@@ -104,11 +104,11 @@ export function Footer() {
             </h4>
             <div className="space-y-2">
               <a
-                href="mailto:hello@ohbhaisahab.com"
+                href="varsha.rana.1603@gmail.com"
                 className="flex items-center gap-2 text-sm text-muted-foreground transition-colors hover:text-accent"
               >
                 <Mail className="h-4 w-4" />
-                hello@ohbhaisahab.com
+                varsha.rana.1603@gmail.com
               </a>
               <a
                 href="tel:+918800721201"
@@ -119,7 +119,7 @@ export function Footer() {
               </a>
               <div className="flex items-start gap-2 text-sm text-muted-foreground">
                 <MapPin className="mt-0.5 h-4 w-4 shrink-0" />
-                <span>Dehradun, Uttarakhand, India</span>
+                <span>Gurgaon,India</span>
               </div>
             </div>
           </div>
